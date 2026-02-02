@@ -7,6 +7,6 @@
 - Module 2: GitHub Flow
     - feature-module2.txt
 - Module 3: GitHub Flow
-    - featue-module3.txt
-- Module X: Description of module work
-- Module X: Description of module work
+    - feature-module3.txt
+- Module 4: GitHub Flow
+    -feature-Module4.txt

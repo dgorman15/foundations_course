@@ -9,6 +9,6 @@
 - Module 3: GitHub Flow
     - feature-module3.txt
 - Module 4: GitHub Flow
-    -feature-Module4.txt
+    - feature-Module4.txt
 - Module 5: GitHub Flow
-    -feature-Module5.txt
+    - feature-Module5.txt

@@ -12,3 +12,5 @@
     - feature-Module4.txt
 - Module 5: GitHub Flow
     - feature-Module5.txt
+- Module 6: Collaboration practice
+
